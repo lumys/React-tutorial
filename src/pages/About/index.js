@@ -1,8 +1,5 @@
-import * as React from "react";
-import Templates from "./templates";
+import * as React from 'react';
+import Templates from './templates';
 
-const About = () => {
-  return <Templates />;
-}
-
+const About = () => <Templates />;
 export default About;
