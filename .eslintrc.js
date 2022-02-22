@@ -16,6 +16,7 @@ module.exports = {
     'no-dupe-args': 2,
     'no-dupe-keys': 2,
     'no-unreachable': 2,
+    'no-param-reassign': 0,
     'react/jsx-key': 2,
     'react/function-component-definition': 0,
     'react/jsx-no-duplicate-props': 2,

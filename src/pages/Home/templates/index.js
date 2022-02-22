@@ -9,6 +9,7 @@ const Templates = () => (
     </main>
     <nav>
       <Link to='/about'>About</Link>
+      <Link to='/tutorial'>Tutorial</Link>
     </nav>
   </>
 );
